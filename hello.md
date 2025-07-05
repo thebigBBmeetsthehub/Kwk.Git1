@@ -1,2 +1,3 @@
-# i am learning how to use Git!
+# i am learning...
+ how to use Git!
 
